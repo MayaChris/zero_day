@@ -1,1 +1,1 @@
-my vagrant project
+Vagrant project
